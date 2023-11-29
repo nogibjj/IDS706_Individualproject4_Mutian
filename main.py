@@ -35,4 +35,4 @@ def process_form():
     return render_template('result.html', response=result), 200, {'Content-Type': 'text/html; charset=utf-8'}
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0',port=8080,debug=True)
