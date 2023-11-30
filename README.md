@@ -1,4 +1,5 @@
 # Individual Project 4
+[![CI](https://github.com/nogibjj/IDS706_Individualproject4_Mutian/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_Individualproject4_Mutian/actions/workflows/cicd.yml)
 ## Goal
 build a publicly accessible auto-scaling container using Azure App Services and Flask
 
